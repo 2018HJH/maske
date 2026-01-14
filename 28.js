@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         PC28提醒-v4.8极致迷你版
+// @name         4.8极致迷你版
 // @namespace    http://tampermonkey.net/
-// @version      4.8
+// @version      4.85
 // @description  UI尺寸极致缩小，宽度约100px，靠右下角，基于2.8内核
 // @author       mini
 // @match        *://gameconsole.pchat.im/*
