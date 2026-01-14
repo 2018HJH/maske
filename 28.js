@@ -1,12 +1,14 @@
 // ==UserScript==
-// @name         极致迷你版
+// @name         PC28提醒-v4.8极致迷你版
 // @namespace    http://tampermonkey.net/
-// @version      4.85
-// @description  UI尺寸极致缩小，宽度约100px，靠右下角
+// @version      4.8
+// @description  UI尺寸极致缩小，宽度约100px，靠右下角，基于2.8内核
 // @author       mini
 // @match        *://gameconsole.pchat.im/*
 // @run-at       document-end
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/2018HJH/maske/main/28.js
+// @downloadURL  https://raw.githubusercontent.com/2018HJH/maske/main/28.js
 // ==/UserScript==
 
 (function() {
