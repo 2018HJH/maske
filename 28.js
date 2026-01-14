@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         极致迷你版
 // @namespace    http://tampermonkey.net/
-// @version      4.8
+// @version      4.85
 // @description  UI尺寸极致缩小，宽度约100px，靠右下角
 // @author       mini
 // @match        *://gameconsole.pchat.im/*
